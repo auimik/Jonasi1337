@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Bruckner
+build_property.ProjectDir = C:\Users\j.bruckner\OneDrive - HBLFA Francisco Josephinum\2IT_2022_23\SEW\Git\2023.01.27_Git_AgOpenGPS\rep_Bruckner\Bruckner\Bruckner\
